@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b2ab2aa8.css",
+    "main.js": "./static/js/main.f0884b2f.js",
+    "static/js/787.97681921.chunk.js": "./static/js/787.97681921.chunk.js",
+    "static/media/metabackend.jpeg": "./static/media/metabackend.ea7353d9b0720b7d289e.jpeg",
+    "static/media/meatafrontend.jpeg": "./static/media/meatafrontend.e2c56ee9a714639c8adb.jpeg",
+    "static/media/alx.png": "./static/media/alx.90eaf84555394894dce5.png",
+    "static/media/image2.png": "./static/media/image2.0339f0a236655d9b3457.png",
+    "static/media/image1.png": "./static/media/image1.c900374391a265d3c24c.png",
+    "static/media/image3.png": "./static/media/image3.0ab460ebc57f3de1a26b.png",
+    "static/media/Merriweather-Bold.ttf": "./static/media/Merriweather-Bold.ae39f743fdcf8f64531e.ttf",
+    "static/media/image4.png": "./static/media/image4.ddd5ef73e9c892a0c713.png",
+    "static/media/Kingsley_Botchway_Resume_latest.pdf": "./static/media/Kingsley_Botchway_Resume_latest.48fd9e6b819df29cb637.pdf",
+    "static/media/nodeJs.jpg": "./static/media/nodeJs.e5f2489ae60dbeb054aa.jpg",
+    "static/media/mongodb..jpeg": "./static/media/mongodb..99929d1299eeccf99b84.jpeg",
+    "static/media/html.jpeg": "./static/media/html.816774aac969463cbc85.jpeg",
+    "static/media/flask.jpeg": "./static/media/flask.05dcbc85263f9f3fb1f8.jpeg",
+    "static/media/sql.jpeg": "./static/media/sql.c5ab42ff57c7c6341e7e.jpeg",
+    "static/media/css.jpeg": "./static/media/css.e0439ec0c93a1ad5acb3.jpeg",
+    "static/media/mysql.jpeg": "./static/media/mysql.430b7388d25d0b5cd90a.jpeg",
+    "static/media/java.jpeg": "./static/media/java.4b45eb072e891abc5857.jpeg",
+    "static/media/django.jpeg": "./static/media/django.229b4f3bdcaa7a17a217.jpeg",
+    "static/media/bootsrap.jpeg": "./static/media/bootsrap.006e1751ec77380b6c7e.jpeg",
+    "static/media/react.jpeg": "./static/media/react.ad26de8bcf83b270c64b.jpeg",
+    "static/media/javascript.jpeg": "./static/media/javascript.3b8a7d9029897b39076b.jpeg",
+    "index.html": "./index.html",
+    "main.b2ab2aa8.css.map": "./static/css/main.b2ab2aa8.css.map",
+    "main.f0884b2f.js.map": "./static/js/main.f0884b2f.js.map",
+    "787.97681921.chunk.js.map": "./static/js/787.97681921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ab2aa8.css",
+    "static/js/main.f0884b2f.js"
+  ]
+}
